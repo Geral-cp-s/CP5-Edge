@@ -14,19 +14,20 @@
   * [3.1 - Phisycal Components](#arquitetura1)
   * [3.2 - Communication](#arquitetura2)
   * [3.3 - Software](#arquitetura3)
-* [4 - System Configuration](#config)
-  * [4.1 - FIWARE Setup](#config1)
-  * [4.2 - ESP32 Setup](#config2)
-  * [4.3 - Python Dashboard Setup](#config3)
-* [5 - Available Statistics](#estatisticas)
-* [6 - Implementation Steps](#passo-passo)
-  * [6.1 - FIWARE Configuration](#passo-passo1)
-  * [6.2 - ESP32 Code Deployment](#passo-passo2)
-* [7 - License](#licenca)
-* [8 - Video](#video)
-* [9 - Code](#codigo)
-* [10 - Access to the Simulator](#simulador)
-* [11 - Authors](#autores)
+* [4 - Dashboard](#dash)
+* [5 - System Configuration](#config)
+  * [5.1 - FIWARE Setup](#config1)
+  * [5.2 - ESP32 Setup](#config2)
+  * [5.3 - Python Dashboard Setup](#config3)
+* [6 - Available Statistics](#estatisticas)
+* [7 - Implementation Steps](#passo-passo)
+  * [7.1 - FIWARE Configuration](#passo-passo1)
+  * [7.2 - ESP32 Code Deployment](#passo-passo2)
+* [8 - License](#licenca)
+* [9 - Video](#video)
+* [10 - Code](#codigo)
+* [11 - Access to the Simulator](#simulador)
+* [12 - Authors](#autores)
 
 <h2 id="Descricao">Project Description</h2>
 <p>This project is part of Check Point 4, aiming to integrate a global vineyard monitoring solution using the FIWARE platform as the backend. The ESP32 DEVKIT 1, equipped with luminosity, humidity, and temperature sensors, collects data from the vineyard environment and sends it to FIWARE for processing and storage. Additionally, a Python-based dashboard is provided for analyzing historical data.</p>
@@ -70,6 +71,9 @@
   <li>Python for creating a dashboard to analyze historical data.</li> 
 </ul>
 
+<h2 id="dash">Dashboard</h2>
+IMAGEM DO DASHBOARD
+
 <h2 id="config">📡 System Configuration</h2> 
 <h3 id="config1">FIWARE Setup</h3> 
 <ol>
@@ -89,7 +93,6 @@
   <li>Install necessary Python libraries for data visualization.</li>
   <li>Run the dashboard script to visualize historical data collected by the sensors.</li>
 </ol>
-IMAGEM DO DASHBOARD
 
 <h2 id="estatisticas">📊 Available Statistics</h2>
 <p>The Python dashboard provides the following statistics:</p>
