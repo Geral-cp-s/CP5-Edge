@@ -124,7 +124,7 @@ https://youtu.be/WkrpSNXZ43Y
 https://github.com/Geral-cp-s/Sprint3-Edge/blob/main/code.ino
 
 <h2 id="Simulador">Access to the Simulator</h2>
-https://wokwi.com/projects/410188165632536577
+https://wokwi.com/projects/410849473799433217
 
 <h2 id="Autores">Authors</h2>
 
