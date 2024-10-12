@@ -25,7 +25,8 @@
   * [7.2 - ESP32 Code Deployment](#passo-passo2)
 * [8 - License](#licenca)
 * [9 - Video](#video)
-* [10 - Code](#codigo)
+* [10 - Code Dashboard](#codigo1)
+* [10 - Code Simulatos](#codigo2)
 * [11 - Access to the Simulator](#simulador)
 * [12 - Authors](#autores)
 
@@ -121,8 +122,11 @@
 <h2 id="video">Video</h2>
 https://youtu.be/WkrpSNXZ43Y
 
-<h2 id="codigo">Code</h2> 
-https://github.com/Geral-cp-s/Sprint3-Edge/blob/main/code.ino
+<h2 id="codigo1">Code Dashboard</h2>
+https://github.com/Geral-cp-s/CP5-Edge/blob/main/dashboard.txt
+
+<h2 id="codigo2">Code Simulatos</h2> 
+https://github.com/Geral-cp-s/CP5-Edge/blob/main/code.ino
 
 <h2 id="Simulador">Access to the Simulator</h2>
 https://wokwi.com/projects/410849473799433217
