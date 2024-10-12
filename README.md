@@ -14,6 +14,7 @@
   * [3.1 - Phisycal Components](#arquitetura1)
   * [3.2 - Communication](#arquitetura2)
   * [3.3 - Software](#arquitetura3)
+  * [3.4 - Drawio](#arquitetura4)
 * [4 - Dashboard](#dash)
 * [5 - System Configuration](#config)
   * [5.1 - FIWARE Setup](#config1)
@@ -51,26 +52,28 @@
 
 - `Feature ` A Python-based dashboard allows for the visualization of historical data collected by the sensors, including luminosity, humidity, and temperature, providing a comprehensive overview of vineyard conditions over time.
 
-  <h2 id="Componentes">🛠️ Architecture and Components</h2> 
-<h3 id="componentes1">Physical Components</h3> 
+  <h2 id="arquitetura">🛠️ Architecture and Components</h2> 
+<h3 id="arquitetura1">Physical Components</h3> 
 <ul> 
   <li>ESP32: Microcontroller that manages the sensors and communication with the MQTT server and the display.</li> 
   <li>DHT 11: Temperature and humidity sensor.</li> 
   <li>LDR: Light-dependent resistor (luminosity sensor).</li> 
   <li>Power supply: for the ESP32.</li> 
 </ul> 
-<h3 id="componentes2">Communication</h3> 
+<h3 id="arquitetura2">Communication</h3> 
 <ul> 
   <li>MQTT Protocol for communication between the ESP32 and FIWARE.</li> 
   <li>Internet connection for communication with FIWARE.</li> 
   <li>Wi-Fi connectivity for the ESP32.</li>
 </ul> 
-<h3 id="componentes3">Software</h3> 
+<h3 id="arquitetura3">Software</h3> 
 <ul> 
   <li>FIWARE for backend processing and data storage.</li> 
   <li>Postman for sending control commands to the ESP32.</li> 
   <li>Python for creating a dashboard to analyze historical data.</li> 
 </ul>
+<h3 id="arquitetura4">Drawio</h3> 
+<img width="500px" loading="lazy" src = "https://github.com/user-attachments/assets/dad1461a-46c4-4384-97d3-37916407bbfb"/>
 
 <h2 id="dash">Dashboard</h2>
 <img width="900px" loading="lazy" src = "https://github.com/user-attachments/assets/b9681d12-ffc8-4f75-8d61-7bb715aee0c3"/>
