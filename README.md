@@ -72,7 +72,8 @@
 </ul>
 
 <h2 id="dash">Dashboard</h2>
-IMAGEM DO DASHBOARD
+<img width="900px" loading="lazy" src = "https://github.com/user-attachments/assets/b9681d12-ffc8-4f75-8d61-7bb715aee0c3"/>
+
 
 <h2 id="config">📡 System Configuration</h2> 
 <h3 id="config1">FIWARE Setup</h3> 
