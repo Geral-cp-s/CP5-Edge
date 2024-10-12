@@ -26,7 +26,7 @@
 * [8 - License](#licenca)
 * [9 - Video](#video)
 * [10 - Code Dashboard](#codigo1)
-* [10 - Code Simulatos](#codigo2)
+* [10 - Code Simulator](#codigo2)
 * [11 - Access to the Simulator](#simulador)
 * [12 - Authors](#autores)
 
@@ -120,12 +120,12 @@
 <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 
 <h2 id="video">Video</h2>
-https://youtu.be/WkrpSNXZ43Y
+https://youtu.be/50hYxLyjVj8
 
 <h2 id="codigo1">Code Dashboard</h2>
 https://github.com/Geral-cp-s/CP5-Edge/blob/main/dashboard.txt
 
-<h2 id="codigo2">Code Simulatos</h2> 
+<h2 id="codigo2">Code Simulator</h2> 
 https://github.com/Geral-cp-s/CP5-Edge/blob/main/code.ino
 
 <h2 id="Simulador">Access to the Simulator</h2>
